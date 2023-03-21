@@ -1,5 +1,6 @@
 // Variables - Styles that are used on more than one component
 // MUI THEME
+// 
 import { createMuiTheme } from "@material-ui/core/styles";
 
 const drawerWidth = 240;
